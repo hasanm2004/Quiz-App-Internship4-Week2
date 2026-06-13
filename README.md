@@ -6,23 +6,37 @@ The application presents one question at a time from a set of 10 quiz questions,
 
 # Features:
 • 10 Questions Loaded from JavaScript Array
+
 • One Question Displayed at a Time
+
 • 4 Multiple-Choice Options
+
 • Correct and Incorrect Answer Highlighting
+
 • Real-Time Score Tracking
+
 • Progress Bar and Question Counter
+
 • 30-Second Timer Per Question
+
 • Automatic Navigation on Time Expiry
+
 • Final Results Screen with Percentage
+
 • Personalized Performance Message
+
 • Restart Quiz Functionality
+
 • Random Question Shuffling on Every Attempt
+
 • Responsive User Interface
 
 
 # Technologies Used:
 HTML5
+
 CSS3
+
 JavaScript (ES6)
 
 # Developed by Hasan Mustafa
